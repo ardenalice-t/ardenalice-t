@@ -1,12 +1,12 @@
 ## Hi there, I'm Arden 👋
 
-I am a MSc Statistics student at [Imperial College London](https://www.imperial.ac.uk). I am interested in:
+I am a MSc Statistics student at [Imperial College London](https://www.imperial.ac.uk). I previously completed an undergraduate degree in Mathematics and Philosophy at Durham University. I am interested in:
 - Statistics
 - Mathematcs
 - Philosophy
 - Running
 
-On this page you will find my university projects, and additional self-learning materials. 
+On this page you will find my university projects, and additional self-learning projects. 
 
 
 
