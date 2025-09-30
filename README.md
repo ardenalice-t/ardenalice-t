@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Arden 👋
+
+I am a MSc Statistics student at [Imperial College London](https://www.imperial.ac.uk). I am interested in:
+- Statistics
+- Mathematcs
+- Philosophy
+- Running
+
+On this page you will find my university projects, and additional self-learning materials. 
+
+
 
 <!--
 **ardenalice-t/ardenalice-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
