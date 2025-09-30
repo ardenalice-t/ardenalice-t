@@ -1,5 +1,7 @@
 ## Hi there, I'm Arden 👋
 
+(◕‿◕✿) (◠﹏◠✿) ôヮô ┌( ಠ‿ಠ)┘ v(⌒o⌒)v♪ ＼(￣▽￣)/
+
 I am a MSc Statistics student at [Imperial Collge London](https://www.imperial.ac.uk). I previously completed an undergraduate degree in Mathematics and Philosophy at Durham University. I am interested in:
 - Statistics
 - Mathematcs
