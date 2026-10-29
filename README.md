@@ -1,6 +1,12 @@
 ## Hi there, I'm Arden 👋
 
-I am a MSc Statistics student at [Imperial College London](https://www.imperial.ac.uk). I previously completed an undergraduate degree in Mathematics and Philosophy at Durham University. I am interested in:
+I'm a Statistics graduate with a background in Mathematics and Philosophy, interested in statistical modelling, machine learning and using data to solve real-world problems.
+
+I enjoy exploring complex datasets, asking meaningful questions and building models that support better decisions. I am currently looking for early-career opportunities in Data Science.
+
+**Tools:** Python, R, SQL, PyTorch, TensorFlow, Keras and scikit-learn
+
+I am interested in:
 - Statistics
 - Mathematics
 - Philosophy
